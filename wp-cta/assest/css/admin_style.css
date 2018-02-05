@@ -1,0 +1,5 @@
+.admin_cta_content{width:100%}
+.cta_fields{display:inline-block;width:100%;vertical-align: top;margin:15px 0}
+.cta_fields .lbl{width:19%;display: inline-block;vertical-align: top}
+.cta_fields .txt{width:80%;display: inline-block;max-width: 250px}
+#wp-cta_description-wrap{width:80%;display: inline-block;max-width: 500px}
